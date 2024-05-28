@@ -1,3 +1,4 @@
+# variables for the module
 variable "vpc_id" {
   description = "The ID of the VPC for which the Internet Gateway is to be created"
   type        = string
